@@ -3,6 +3,7 @@ class FlashLamp {
 
     constructor(battery) {
         this.battery = battery;
+        this.status=true
 
     }
 
